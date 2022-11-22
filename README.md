@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Open source softwere
 - 🌱 I’m currently learning ... Python, Go, C and OSS
 - 💞️ I’m looking to collaborate on ...ethical hackers!!!
-- 📫 How to reach me ... wait a minute...
+- 📫 How to reach me ... https://twitter.com/betaKawakami 
 - My bible...https://cruel.org/freeware/hacker.html#skills3
 
 <!---
