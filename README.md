@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Python, C# and OSS
 - 💞️ I’m looking to collaborate on ...ethical hackers!!!
 - 📫 How to reach me ... https://www.nicovideo.jp/user/124669393/video?ref=pc_userpage_menu
--                        and https://twitter.com/betaKawakami 
+-                    ... and https://twitter.com/betaKawakami 
 - My bible...https://cruel.org/freeware/hacker.html#skills3
 
 <!---
