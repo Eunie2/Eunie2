@@ -2,8 +2,9 @@
 - 👀 I’m interested in ... Open source softwere
 - 🌱 I’m currently learning ... Python, C# and OSS
 - 💞️ I’m looking to collaborate on ...ethical hackers!!!
-- 📫 How to reach me ... https://www.nicovideo.jp/user/124669393/video?ref=pc_userpage_menu
-                     ... and https://twitter.com/betaKawakami 
+- 📫 My social media  ... https://www.nicovideo.jp/user/124669393/video?ref=pc_userpage_menu
+-  　 Youtube Channel  ... https://www.youtube.com/channel/UCp0LwelNJdF7IjbQbpRDvhw
+-　   and  twitter     ... https://twitter.com/betaKawakami 
 - My bible...https://cruel.org/freeware/hacker.html
 
 <!---
